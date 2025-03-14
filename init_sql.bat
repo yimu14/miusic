@@ -1,0 +1,1 @@
+ python manage.py initsql --ini config.ini && python manage.py create_all
